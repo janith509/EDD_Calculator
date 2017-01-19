@@ -52,8 +52,6 @@ public class FrameMain extends javax.swing.JFrame {
         calculatebutton = new javax.swing.JButton();
         jLabel11 = new javax.swing.JLabel();
         jLabel12 = new javax.swing.JLabel();
-        jLabel13 = new javax.swing.JLabel();
-        jLabel14 = new javax.swing.JLabel();
 
         jLabel10.setText("jLabel10");
 
@@ -167,12 +165,6 @@ public class FrameMain extends javax.swing.JFrame {
         jLabel12.setBackground(new java.awt.Color(255, 0, 51));
         jLabel12.setText("No Image");
         getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 650, 470));
-
-        jLabel13.setText("jLabel13");
-        getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 80, -1, -1));
-
-        jLabel14.setText("jLabel14");
-        getContentPane().add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 40, -1, -1));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -311,8 +303,6 @@ public class FrameMain extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
-    private javax.swing.JLabel jLabel13;
-    private javax.swing.JLabel jLabel14;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
