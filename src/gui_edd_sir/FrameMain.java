@@ -165,6 +165,7 @@ public class FrameMain extends javax.swing.JFrame {
         getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 20, 220, -1));
 
         jLabel12.setBackground(new java.awt.Color(255, 0, 51));
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gui_edd_sir/gynae2.jpg"))); // NOI18N
         jLabel12.setText("No Image");
         getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 650, 470));
 
